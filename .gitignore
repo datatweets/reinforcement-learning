@@ -111,3 +111,4 @@ wandb/
 # Backup content (local reference only)
 # -----------------------------------------------
 backup_content/
+03_RL_Outline.docx
